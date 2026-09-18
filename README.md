@@ -10,9 +10,7 @@ Built with **React**, **Node.js**, **Express**, and **MySQL**.
 👉 [View Demo](https://your-live-demo-link.com)
 
 ---
-
 ## 📌 Features
-
 ### 👤 Student
 - Role-based login
 - Select semester & view subjects
